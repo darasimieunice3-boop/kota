@@ -988,6 +988,10 @@ body {
         width: 100%;
     }
 
+    .hero-date{
+        align-items: center;
+    }
+    
     .image-wrap {
         display: grid;
         grid-template-columns: 2fr 1fr;
