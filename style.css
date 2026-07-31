@@ -993,6 +993,11 @@ body {
         padding: 2px 4px; 
     }
 
+    .btn-article{
+        margin: 20px;
+        padding: 2px 4px;    
+    }
+    
     .image-wrap {
         display: grid;
         grid-template-columns: 2fr 1fr;
