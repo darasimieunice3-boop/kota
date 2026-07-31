@@ -994,10 +994,12 @@ body {
     }
 
     .btn-article{
+        border-radius: 8px;
         margin: 20px;
-        padding: 2px 4px;    
+        padding: 8px 10px;  
+        margin-left: 140px;  
     }
-    
+
     .image-wrap {
         display: grid;
         grid-template-columns: 2fr 1fr;
