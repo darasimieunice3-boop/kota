@@ -363,6 +363,7 @@ body {
 
 /* Hamburger Dropdown Content */
 .hamburger-dropcontent {
+    display: none;
     height: 85vh;
     position: fixed;
     overflow: hidden;
@@ -1054,6 +1055,8 @@ body {
         height: 24px;
     }
 
+    .hamburger-dropcontent {
+    display: flex;
      .boxes {
             width: 100%;
         }
