@@ -989,9 +989,11 @@ body {
     }
 
     .hero-date{
-        align-items: center;
+        margin: 20px;
+        padding: 2px 4px;
+        color: red; 
     }
-    
+
     .image-wrap {
         display: grid;
         grid-template-columns: 2fr 1fr;
