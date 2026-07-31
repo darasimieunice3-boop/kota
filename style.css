@@ -1057,6 +1057,8 @@ body {
 
     .hamburger-dropcontent {
     display: flex;
+    }
+
      .boxes {
             width: 100%;
         }
@@ -1075,6 +1077,10 @@ body {
         align-items: center;
         justify-content: center;
         color: #999999;
+    }
+
+    .illustration img {
+        display: flex;
     }
     .features-stack {
         grid-template-columns: 1fr;
